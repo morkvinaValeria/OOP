@@ -7,7 +7,7 @@ namespace Lab3
     public class Letters
     {
 
-        private char[,] array = new char[5, 5];
+        private char[,] array;
         public void set(char[,] array)
         {
 
