@@ -38,25 +38,3 @@ float Expression::Calculate()
 
 
 
-
-/*
-float Expression::SetA(float a)
-{
-    this->a = a;
-}
-float Expression::SetB(float b)
-{
-    this->b = b;
-}
-float Expression::SetC(float c)
-{
-    this->c = c;
-}
-float Expression::SetD(float d)
-{
-    this->d = d;
-}
-float Expression::GetA() { return a; }
-float Expression::GetB() { return a; }
-float Expression::GetC() { return a; }
-float Expression::GetD() { return a; }*/
