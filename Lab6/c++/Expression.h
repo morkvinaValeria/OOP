@@ -11,27 +11,3 @@ public:
     float Calculate();
    
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* float SetA(float a);
-    float SetB(float b);
-    float SetC(float c);
-    float SetD(float d);
-    float GetA();
-    float GetB();
-    float GetC();
-    float GetD();*/
